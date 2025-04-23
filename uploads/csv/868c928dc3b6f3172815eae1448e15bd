@@ -1,0 +1,5 @@
+name,price,categoryId,imagePath
+iPhone 15,79999,dd44cb5c-7e82-41fc-9358-45c9fc01db44,iphone.jpg
+Colgate Toothpaste,99,4cfe62ee-1ebf-4dc3-88e9-a96ba868061d,colgate.jpg
+LED TV,45999,dd44cb5c-7e82-41fc-9358-45c9fc01db44,tv.jpg
+Shampoo,120,4cfe62ee-1ebf-4dc3-88e9-a96ba868061d,shampoo.jpg
